@@ -1,0 +1,23 @@
+debutPlan
+A 0.N-1.S;
+B 1.E-2.O;
+C 2.N-3.S;
+D 3.O-0.E;
+E 4.N-5.S;
+F 5.E-6.O;
+G 6.N-7.S;
+H 7.O-4.E;
+I 7.E-8.O;
+J 8.N-9.S;
+K 9.E-10.O;
+L 10.N-11.S;
+M 11.O-8.E;
+
+
+
+N 0.E-4.W;
+
+
+O 3.N-6.S;
+
+finPlan
